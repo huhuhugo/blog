@@ -3,4 +3,10 @@
 languageName = "English"
 languagedirection = "ltr"
 title = "Example Site"
+weight = 2
+
+[zh-cn]
+languageName = "Chinese"
+languagedirection = "ltr"
+title = "Example Site"
 weight = 1
